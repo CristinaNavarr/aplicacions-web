@@ -16,3 +16,18 @@ h2{
     color:blueviolet;
     
 }
+.flex-container{
+    border:1px solid black
+    backround:#ccc;
+    padding: 20px;
+    display:flex;
+}
+.caja {
+    border:1px solid rgb (70,69,69);
+    background-color: white
+    color: black;
+    width:120px;
+    hidth:120px;
+    line-
+
+}
