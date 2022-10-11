@@ -1,4 +1,4 @@
-h1{
+/*h1{
 
     color:blueviolet;
     font-style: oblique;
@@ -10,25 +10,48 @@ h1{
     width: 300px;
     
 }
-    
+
 h2{
     
     color:blueviolet;
     
-}
+.}*/
 .flex-container{
-    border:1px solid black
+    border:1px solid black;
     background: #ccc;
     padding: 20px;
     display: flex;
     flex-direction:row;
+    flex-wrap:wrap;
+    flex-flow:row wrap;
+    justify-content: center;
+    align-content:center;
+    width: 80%;
+    height:600px;
+    margin: 0 auto;
 }
 .caja {
-    border:1px solid rgb (70,69,69);
-    background-color: white
+    border: 1px solid rgb(70,69,69);
+    background-color: white;
     color: black;
-    width:120px;
-    hidth:120px;
-    line-
+    font-family: 'Courier New',Courier,monospace;
+    font-weight: bold;
+    width: 200px;
+    line-height: 120px;;
+    text-align:center;
+    margin:5px;
+    overflow:hidden;
 
+}
+.c1{
+    background: lightblue;
+    order: 1;
+}
+.c2{
+    background: lightcoral;
+    order: 2;
+}
+.c3 {
+    background: lightgreen;
+    order: 3;
 }
