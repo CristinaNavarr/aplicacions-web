@@ -18,9 +18,10 @@ h2{
 }
 .flex-container{
     border:1px solid black
-    backround:#ccc;
+    background: #ccc;
     padding: 20px;
-    display:flex;
+    display: flex;
+    flex-direction:row;
 }
 .caja {
     border:1px solid rgb (70,69,69);
