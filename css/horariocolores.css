@@ -1,0 +1,58 @@
+.serveis {
+    border: 3px green solid ;
+    background-color: rgb(214, 40, 214);
+    color: rgb(138, 10, 138);
+    font-family:'Courier New', Courier, monospace;
+}
+
+.seguretat{
+    border: 3px red solid ;
+    background-color: cornflowerblue;
+    color: greenyellow;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.sistemes {
+    background-color: crimson;
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 3px black solid ;
+}
+
+.aplicacions{
+    border: 3px blueviolet solid ;
+    background-color: darkgoldenrod;
+    color: blue;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.web{
+    border: 3px brown solid ;
+    background-color: chartreuse;
+    color: darkorange;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.eie{
+    border: 3px pink solid ;
+    background-color: palevioletred;
+    color: red;
+    font-family:'Times New Roman', Times, serif;
+}
+
+
+.pati {
+    border: 3px royalblue solid ;
+}
+
+.hora{
+    border: 3px purple solid;
+}
+
+.dia {
+    border: 3px turquoise solid;
+}
+	
+.horari {
+    border: 3px solid chartreuse ;
+}
